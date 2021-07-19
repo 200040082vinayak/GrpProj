@@ -1,0 +1,25 @@
+h1 {
+ color: red;
+}
+
+h4{
+   color : blue
+}
+p{
+ color: whitesmoke;
+}
+
+h6{
+ color: yellow
+}
+
+a{
+ color: pink;
+}
+body{
+ background-color: black;
+ border: 2px solid blue;
+ text-align: center;
+ 
+}
+
